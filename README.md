@@ -1,5 +1,6 @@
 # Task-list
 
+![screenshot](./screenshot.jpg)
 
 ## Technologies
 
